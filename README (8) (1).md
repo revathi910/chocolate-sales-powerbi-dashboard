@@ -165,8 +165,8 @@ YoY % = DIVIDE([CY Sales] - [PY Sales], [PY Sales], 0)
 
 I am currently pursuing a **Data Analytics course** and continuously working on real-world projects to build strong analytical and problem-solving skills.
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile) ← *update this*
-- 📧 your.email@gmail.com ← *update this*
+- 🔗 [LinkedIn]https://www.linkedin.com/in/revathi-koyala-3066b12b5?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 📧 revathikoyyla@gmail.com
 
 ---
 
